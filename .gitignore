@@ -1,0 +1,8 @@
+# config setup stuff
+.vscode
+.DS_Store
+
+# cpp build stuff
+*.dSYM/
+# cpp unix exe file
+main_cpp 
