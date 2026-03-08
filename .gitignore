@@ -6,3 +6,24 @@
 *.dSYM/
 # cpp unix exe file
 main_cpp 
+
+#ignore not yet used files
+day30-/*
+day29-/*
+day28-/*
+day27-/*
+day26-/*
+day25-/*
+day24-/*
+day23-/*
+day22-/*
+day21-/*
+day20-/*
+day19-/*
+day18-/*
+day17-/*
+day16-/*
+day15-/*
+day14-/*
+day13-/*
+day12-/*
