@@ -6,7 +6,3 @@
 *.dSYM/
 # cpp unix exe file
 main_cpp 
-
-#ignore not yet used files
-day30-/*
-day29-/*
